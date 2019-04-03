@@ -1,7 +1,7 @@
-*
+*.*
 !.gitattributes
 !.gitignore
 !readme.md
 !.gitkeep
 !*.ipynb
-*.xlsx
+!*.py
